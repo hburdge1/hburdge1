@@ -1,13 +1,13 @@
-### Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="100"/>
 <div id="badges">
+  <hr/>
+     <a href="https://heburdge.wordpress.com/">
+  <img src="https://img.shields.io/badge/wordpress-red?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/heburdge/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://heburdge.wordpress.com/"
-  <img src="https://img.shields.io/badge/wordpress-red?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress badge"/>
   </a>
 </div>
 </div>
