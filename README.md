@@ -1,8 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
-  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/heburdge/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,6 +9,7 @@
   <a href="https://heburdge.wordpress.com/"
   <img src="https://img.shields.io/badge/wordpress-red?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress badge"/>
   </a>
+</div>
 </div>
 <h1>
   hey there
@@ -54,3 +54,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hburdge1&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hburdge1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
